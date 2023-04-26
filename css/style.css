@@ -74,6 +74,7 @@ main {
     transform: translate(-57%, 0);
     display: flex;
     gap: 20px;
+    cursor: pointer;
 }
 
 .button {
@@ -86,6 +87,7 @@ main {
     color: white;
     background-color: #444;
     box-shadow: -2px 3px 0 #222,-4px 6px 0 #000;
+    cursor: pointer;
 }
 
 .button:active{
